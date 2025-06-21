@@ -1,0 +1,1 @@
+/home/leo/.bash_aliases
